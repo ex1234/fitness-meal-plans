@@ -1,2 +1,7 @@
 ﻿# fitness-meal-plans
-CSV templates + printable plans.
+
+CSV-С€Р°Р±Р»РѕРЅС‹ Рё РїРµС‡Р°С‚РЅС‹Рµ РїР»Р°РЅС‹.
+
+## Quickstart
+1. Р РµРґР°РєС‚РёСЂСѓР№ data/week_template.csv
+2. РљРѕРјРјРёС‚/РїСѓС€ вЂ” Рё РіРѕС‚РѕРІРѕ
